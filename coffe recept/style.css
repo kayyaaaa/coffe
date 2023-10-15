@@ -1,0 +1,59 @@
+body{
+    background-image: url("img/img1.webp");
+    background-repeat: no-repeat;
+    background-size: cover; 
+    
+}
+.h1{
+color: #e6e0e0;
+font-family: Inter;
+font-size: 32px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;    
+}
+.h2{
+color: #e6e0e0;
+width: 57px;
+height: 24px;
+top: 202px;
+left: 31px;
+
+}
+.p1{
+    color: #FFF;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+image{
+
+    width: 325px;
+    height: 188px;
+    top: -47px;
+    left: -438px;
+    
+
+}
+details{
+    color: aliceblue;
+    content: icon;
+    text-align:left;
+}
+.img1{
+    border-radius: 50%;
+}
+img{
+    border-radius: 8px;
+}
+.img2{
+    width: 325px;
+    height: 188px;
+    top: -47px;
+    left: -438px;
+    
+}
+
+ 
